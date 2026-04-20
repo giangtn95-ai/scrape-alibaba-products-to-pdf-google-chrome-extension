@@ -1,6 +1,8 @@
 **PRODUCT PREVIEW**
 <img width="449" height="852" alt="Screenshot 2026-04-21 022327" src="https://github.com/user-attachments/assets/faee10b8-58e0-4391-98ce-8241329cbe10" />
 
+Requirement before install:
+**Prerequisite: Make sure you have [Node.js (LTS)](https://nodejs.org/) "_(<click to download)_" installed before proceeding.**
 **Step 1: **Download the Source Code
 Navigate to the **Releases** section on the right side of this GitHub page and download the latest version.
 
@@ -36,6 +38,6 @@ _If print PDF you need to do it manually by using this option _
 _then right click to print page._
 
 
-Prerequisites: You might want to mention that the user needs Node.js installed on their machine to run the npm commands, as some beginners might not have it yet!
+
 ## Run Locally
 
