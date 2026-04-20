@@ -15,9 +15,9 @@ Install dependencies:
 
 <pre>
 
-'''npm install
+npm install
 
-npm run build'''
+npm run build
 
 </pre>
 Note: This process bundles the code into a production-ready extension located in the /dist (or /build) folder.
