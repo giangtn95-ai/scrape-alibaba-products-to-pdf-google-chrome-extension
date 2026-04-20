@@ -13,13 +13,11 @@ Open your Terminal (Command Prompt or PowerShell) and navigate to the extracted 
 
 Install dependencies:
 ```
-<pre>
-
 npm install
-
+```
+---
+```
 npm run build
-
-</pre>
 ```
 Note: This process bundles the code into a production-ready extension located in the /dist (or /build) folder.
 
