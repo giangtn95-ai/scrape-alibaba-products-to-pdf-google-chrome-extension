@@ -3,14 +3,14 @@
 
 Requirement before install:
 **Prerequisite: Make sure you have [Node.js (LTS)](https://nodejs.org/) "_(<click to download)_" installed before proceeding.**
-**Step 1: **Download the Source Code
+**Step 1:** Download the Source Code
 Navigate to the **Releases** section on the right side of this GitHub page and download the latest version.
 
 Your computer will download a compressed file (ZIP).
 
 Extract the file into a folder of your choice.
 
-**Step 2: **Build the Application
+**Step 2:** Build the Application
 Open your Terminal (Command Prompt or PowerShell) and navigate to the extracted folder, or open folder right click run Cmd or Powershell. Run the following commands:
 
 Install dependencies:
@@ -26,7 +26,7 @@ Note: This process bundles the code into a production-ready extension located in
 **Step 3:** Install on **Chrome / Edge**
 Open your browser and type **chrome://extensions/** in the address bar.
 
-In the top-right corner, toggle the** "Developer mode"** switch to ON.
+In the top-right corner, toggle the **Developer mode** switch to ON.
 
 Click the **"Load unpacked"** button that appears in the top-left.
 
