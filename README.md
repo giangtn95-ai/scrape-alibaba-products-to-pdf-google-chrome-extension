@@ -36,6 +36,12 @@ Done!
 _If print PDF you need to do it manually by using this option _
 <img width="442" height="117" alt="Screenshot 2026-04-21 024107" src="https://github.com/user-attachments/assets/91095f1c-e13a-45d8-ba9b-be8debc5d8bd" />
 _then right click to print page._
+## 💡 Notes & Feedback
+
+* ☁️ **Save Progress:** You can save your work to Google Drive using the **DRIVE** button.
+* 📂 **Multiple Projects:** Support for creating and managing multiple projects is available.
+* 🛠 **Direct Support:** The "Chat with Provider" feature is currently under development and will be updated soon.
+* 📩 **Feedback:** If you have any suggestions or want to request a new feature, feel free to open an issue or contact me!
 
 
 
