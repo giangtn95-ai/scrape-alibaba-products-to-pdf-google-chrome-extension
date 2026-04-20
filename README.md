@@ -41,7 +41,10 @@ _then right click to print page._
 * ☁️ **Save Progress:** You can save your work to Google Drive using the **DRIVE** button.
 * 📂 **Multiple Projects:** Support for creating and managing multiple projects is available.
 * 🛠 **Direct Support:** The "Chat with Provider" feature is currently under development and will be updated soon.
-* 📩 **Feedback:** If you have any suggestions or want to request a new feature, feel free to open an issue or contact me!
+* 📩 **Feedback:** If you have any suggestions or want to request a new feature, feel free to open an issue or contact me! Thank you!
+
+Every small contribution helps me keep the project alive!
+paypal: @giangggg (https://www.paypal.com/paypalme/giangggg)
 
 
 
