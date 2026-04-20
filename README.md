@@ -7,16 +7,16 @@ Your computer will download a compressed file (ZIP).
 Extract the file into a folder of your choice.
 
 Step 2: Build the Application
-Open your Terminal (Command Prompt or PowerShell) and navigate to the extracted folder. Run the following commands:
+Open your Terminal (Command Prompt or PowerShell) and navigate to the extracted folder, or open folder right click run Cmd or Powershell. Run the following commands:
 
 Install dependencies:
 
-Bash
-'npm install'
+Run(type)
+npm install
 Compile the project:
 
-Bash
-'npm run build'
+Run(type)
+npm run build
 Note: This process bundles the code into a production-ready extension located in the /dist (or /build) folder.
 
 Step 3: Install on Chrome / Edge
