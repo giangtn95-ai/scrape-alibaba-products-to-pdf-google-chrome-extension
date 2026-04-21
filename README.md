@@ -9,12 +9,10 @@ Requirement before install:
 **Step 1:** Download the Source Code
 Navigate to the **Releases** section on the right side of this GitHub page and download the latest version (alibaba-sourcing-hub1.5.zip)
 
-Your computer will download a compressed file (ZIP).
-
 Extract the file into a folder of your choice.
 
 **Step 2:** Build the Application
-Open your Terminal (Command Prompt or PowerShell) and navigate to the extracted folder, or open folder right click run Cmd or Powershell. Run the following commands:
+Open your Terminal (Command Prompt or PowerShell) by right click to to anywhere in the folder then choose "Open in Terminal" or navigate to the extracted folder. Run the following commands:
 
 Install dependencies:
 ```
