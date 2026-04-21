@@ -1,5 +1,6 @@
 **PRODUCT PREVIEW**
-<img width="449" height="852" alt="Screenshot 2026-04-21 022327" src="https://github.com/user-attachments/assets/faee10b8-58e0-4391-98ce-8241329cbe10" />
+<img width="507" height="926" alt="Screenshot 2026-04-21 090155" src="https://github.com/user-attachments/assets/4355b0fd-1dec-4cb6-9f7c-54d62213537f" />
+
 
 Requirement before install:
 **Prerequisite: Make sure you have [Node.js (LTS)](https://nodejs.org/) "_(<click to download)_" installed before proceeding.**
