@@ -7,7 +7,7 @@ Requirement before install:
 **Prerequisite: Make sure you have [Node.js (LTS)](https://nodejs.org/) "_(<click to download)_" installed before proceeding.**
 
 **Step 1:** Download the Source Code
-Navigate to the **Releases** section on the right side of this GitHub page and download the latest version.
+Navigate to the **Releases** section on the right side of this GitHub page and download the latest version (alibaba-sourcing-hub1.5.zip)
 
 Your computer will download a compressed file (ZIP).
 
