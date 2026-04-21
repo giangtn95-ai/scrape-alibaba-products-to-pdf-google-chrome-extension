@@ -6,12 +6,14 @@ updated key features customize avatar, light-dark mode, theme for app and change
 Requirement before install:
 **Prerequisite: Make sure you have [Node.js (LTS)](https://nodejs.org/) "_(<click to download)_" installed before proceeding.**
 
-**Step 1:** Download the Source Code
+**Step 1:** Download the files:
+
 Navigate to the **Releases** section on the right side of this GitHub page and download the latest version (alibaba-sourcing-hub1.5.zip)
 
 Extract the file into a folder of your choice.
 
 **Step 2:** Build the Application
+
 Open your Terminal (Command Prompt or PowerShell) by right click to to anywhere in the folder then choose "Open in Terminal" or navigate to the extracted folder. Run the following commands:
 
 Install dependencies:
@@ -25,6 +27,7 @@ npm run build
 Note: This process bundles the code into a production-ready extension located in the /dist (or /build) folder.
 
 **Step 3:** Install on **Chrome / Edge**
+
 Open your browser and type **chrome://extensions/** in the address bar.
 
 In the top-right corner, toggle the **Developer mode** switch to ON.
