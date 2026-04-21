@@ -5,6 +5,7 @@ updated key features customize avatar, light-dark mode, theme for app and change
 
 Requirement before install:
 **Prerequisite: Make sure you have [Node.js (LTS)](https://nodejs.org/) "_(<click to download)_" installed before proceeding.**
+
 **Step 1:** Download the Source Code
 Navigate to the **Releases** section on the right side of this GitHub page and download the latest version.
 
