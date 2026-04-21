@@ -36,9 +36,11 @@ Select the build folder (the one created in Step 2 **"dist"** in the app folder)
 
 Done!
 INSTRUCTIONS:
-Click Scrape Alibaba Page (u can Edit the product + notes in Edit / Add Manually before add it down to pdf)
-then click to Save Product or  ✓ Product in the bottom to add products to PDF u can edit after here in Saved Data or delete products or clear all.
-----
+Click Scrape Alibaba Page to start (u can Edit the product + notes in Edit / Add Manually before add it down to pdf)
+---
+then click to Save Product or  ✓ Product in the bottom to add products to PDF
+u can edit after here in Saved Data or delete products or clear all.
+---
 **_You can change avatar by click into it. It's not disapear when you closed browser but you still can using "export" button in the bottom to save manually Json file (your projects). Or connect your drive account by "Drive" button on the top to share between co-workers._**
 
 _If print PDF you need to do it manually by using this option _
