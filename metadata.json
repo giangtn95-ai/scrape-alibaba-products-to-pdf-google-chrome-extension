@@ -1,5 +1,5 @@
 {
-  "name": "Alibaba Sourcing Hub",
+  "name": "Remix: Alibaba Sourcing Hub",
   "description": "App quản lý nguồn hàng Alibaba, tự động trích xuất thông tin, phân loại catalog, xuất PDF và hỗ trợ lưu trữ.",
   "requestFramePermissions": []
 }

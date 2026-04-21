@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Sourcing Hub Pro",
+  "version": "1.0",
+  "description": "Tiện ích trích xuất thông minh dữ liệu Sourcing Alibaba. Chạy trực tiếp ở Sidebar của trình duyệt.",
+  "permissions": ["sidePanel", "scripting", "tabs"],
+  "host_permissions": ["*://*.alibaba.com/*", "*://alibaba.com/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Mở Sourcing Hub",
+    "default_icon": "icon.svg"
+  },
+  "icons": {
+    "16": "icon.svg",
+    "48": "icon.svg",
+    "128": "icon.svg"
+  },
+  "side_panel": {
+    "default_path": "index.html"
+  }
+}
