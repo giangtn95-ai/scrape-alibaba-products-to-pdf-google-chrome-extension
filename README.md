@@ -1,4 +1,4 @@
-**PRODUCT PREVIEW**
+**PRODUCT PREVIEW** _vibe coding with gemini_
 <img width="507" height="926" alt="Screenshot 2026-04-21 090155" src="https://github.com/user-attachments/assets/4355b0fd-1dec-4cb6-9f7c-54d62213537f" />
 new updates:
 updated key features customize avatar, light-dark mode, theme for app and change color for PDF, added "product" button for easier save products. 
